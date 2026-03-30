@@ -2,8 +2,8 @@ flask
 flask-cors
 yfinance
 pandas
-pandas-ta
 numpy
 xgboost
 textblob
 gunicorn
+https://github.com/twopirllc/pandas-ta/archive/refs/heads/main.zip
